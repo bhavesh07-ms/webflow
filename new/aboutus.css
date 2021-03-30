@@ -1,0 +1,42 @@
+body {
+    background-image: url(bg1.jpg);
+}
+
+.name {
+    background:transparent;
+    color:wheat;
+    text-align: center;
+}
+#na {
+    text-align: center;
+    color:yellowgreen;
+    margin-top: 4px;
+    margin-top: 4px;
+}
+
+.sediv {
+    border:solid 2px red;
+    margin-top:3px;
+    text-align: center;
+    height:200px;
+}
+#myimage {
+    float:left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.pqr {
+    text-align: center;
+    color:whitesmoke;
+    margin-top: 20px;
+}
+#xyz{
+    text-align: center;
+    color:whitesmoke;
+}
+
+#abc {
+    color:thistle;
+    text-align: center;
+    margin-left: 10spx;
+}
